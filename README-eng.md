@@ -133,19 +133,19 @@ The project follows the MVC (Model-View-Controller) architecture, structured as 
 ## Project Demonstration
 - Login page:
 
-<img src="https://i.ibb.co/D9SHgkw/login.png" alt="Atalho Gerado" width="700" />
+<img src="https://i.ibb.co/q96SsSx/login.png" alt="Atalho Gerado" width="700" />
 
 - Sign Up page:
 
-<img src="https://i.ibb.co/nPSwDCW/signup.png" alt="Atalho Gerado" width="700" />
+<img src="https://i.ibb.co/18nZw2z/signup.png" alt="Atalho Gerado" width="700" />
 
 - Chat page:
 
-<img src="https://i.ibb.co/0VsHDRv/chat2.png" alt="Atalho Gerado" width="700" />
+<img src="https://i.ibb.co/1JkZ9Tb/chat2.png" alt="Atalho Gerado" width="700" />
 
 - Live testing:
 
-
+https://github.com/user-attachments/assets/7ce5249d-00f3-4676-8d00-d9fb4e8c0484
 
 ## Development Decisions
 
