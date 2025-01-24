@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    background: url("../public/images/denim.png") repeat;
+    background-size: auto;
+    border-radius: 5px;
+}
+
+.signupBox {
+    background-color: #f4ffc3;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #5d8736;
+    margin-bottom: 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #809d3c;
+    border-radius: 4px;
+}
+
+.signupButton {
+    background-color: #5d8736;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.signupButton:hover {
+    background-color: #809d3c;
+}
+
+.loginRedirect {
+    margin-top: 15px;
+}
+
+.redirectText {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #5d8736;
+}
+
+.loginButton {
+    background-color: #809d3c;
+    color: white;
+    font-weight: bold;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.loginButton:hover {
+    background-color: #a9c46c;
+}
